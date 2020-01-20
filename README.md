@@ -6,7 +6,7 @@ The repository samples 200 images each from digit 5 and digit 8 from the train s
 Plot of the covariance matrix for the PCA transformed train data is shown below:
 ![covariance_matrix](https://github.com/kanchanchy/Principle-Component-Analysis/blob/master/covariance_matrix/covariance.png)
 
-5 PCA reconstructed images along with original images are shown below:
+5 PCA reconstructed image samples from each digit along with original images are shown below:
 
 Sample 1:
 
