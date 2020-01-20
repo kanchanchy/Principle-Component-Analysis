@@ -9,17 +9,16 @@ Plot of the covariance matrix for the PCA transformed train data is shown below:
 5 PCA reconstructed images along with original images are shown below:
 
 Sample 1:
-
 ![covariance_matrix](https://github.com/kanchanchy/Principle-Component-Analysis/blob/master/plotted_images/digit_1.png)
 
 Sample 2:
-
 ![covariance_matrix](https://github.com/kanchanchy/Principle-Component-Analysis/blob/master/plotted_images/digit_2.png)
 
 Sample 3:
-
 ![covariance_matrix](https://github.com/kanchanchy/Principle-Component-Analysis/blob/master/plotted_images/digit_3.png)
+
 Sample 4:
 ![covariance_matrix](https://github.com/kanchanchy/Principle-Component-Analysis/blob/master/plotted_images/digit_4.png)
+
 Sample 5:
 ![covariance_matrix](https://github.com/kanchanchy/Principle-Component-Analysis/blob/master/plotted_images/digit_5.png)
